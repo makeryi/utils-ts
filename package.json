@@ -1,18 +1,18 @@
 {
-  "name": "name",
+  "name": "@makeryi/utils",
   "version": "0.0.0",
   "packageManager": "pnpm@6.32.4",
   "description": "",
   "keywords": [],
-  "homepage": "https://github.com/makeryi/[name]#readme",
+  "homepage": "https://github.com/makeryi/utils-ts#readme",
   "bugs": {
-    "url": "https://github.com/makeryi/[name]/issues"
+    "url": "https://github.com/makeryi/utils-ts/issues"
   },
   "license": "MIT",
   "author": "Yang Yi <github@makeryi.top>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/makeryi/[name].git"
+    "url": "git+https://github.com/makeryi/utils-ts.git"
   },
   "funding": "https://github.com/sponsors/makeryi",
   "main": "./dist/index.cjs",
